@@ -1,9 +1,0 @@
-vim skills.xml [Enter] -> i
-     <?xml version="1.0" encoding="UTF-8"?>  
-	<My_skills>
-	   <Testing_API>"Postman"</Testing_API>
-	   <Sniffers>"Charles"</Sniffers>
-	   <Testing_mobile>"Android Studio"</Testing_mobile>
-	   <Coding>"Python"</Coding>
-	   <Bug_tracking_system>"JIRA"</Bug_tracking_system>
-        </My_skills>
