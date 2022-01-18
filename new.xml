@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+	 <Information>
+	  <About_Me>
+	      <Surname>"Pustovar"</Surname>
+	      <Name>"Anton"</Name>
+	      <Patronymic>"Vladimirovich"</Patronymic>
+	      <Age>"35"</Age>
+	  </About_Me>
+	  <Other_information>
+	      <How_mant_pets>"2"</How_mant_pets>
+	      <Future_desired_salary>"500 $"</Future_desired_salary>
+	  </Other_information>
+	</Information>
