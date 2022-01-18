@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+	<Bug_report>
+	   <ID>"ID"</ID>
+	   <Summary>"Summary"</Summary>
+	   <Description>"Description"</Description>
+	   <STR>"STR"</STR>
+	   <AR>"AR"</AR>
+	   <ER>"ER"</ER>
+	   <Reproducibility>"Reproducibility"</Reproducibility>
+	   <Severity>"Severity"</Severity>
+	   <Priority>"Priority"</Priority>
+	   <Workaround>"Workaround"</Workaround>
+	   <Comments>"Comments"</Comments>
+	   <Attachments>"Attachments"</Attachments>
+	</Bug_report>
